@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T13:41:37 IST" name="Surefire suite" finished-at="2024-06-14T13:41:37 IST" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T13:41:37 IST" name="Surefire test" finished-at="2024-06-14T13:41:37 IST" duration-ms="50">
+      <class name="nagarjunvp.Maven_java.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:nagarjunvp.Maven_java.AppTest@2d9d4f9d]" started-at="2024-06-14T13:41:37 IST" name="shouldAnswerWithTrue" finished-at="2024-06-14T13:41:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- nagarjunvp.Maven_java.AppTest -->
+      <class name="nagarjunvp.Maven_java.RestAssuredTest">
+        <test-method signature="postJira()[pri:0, instance:nagarjunvp.Maven_java.RestAssuredTest@4034c28c]" started-at="2024-06-14T13:41:37 IST" name="postJira" finished-at="2024-06-14T13:41:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method signature="DeleteTweet()[pri:0, instance:nagarjunvp.Maven_java.RestAssuredTest@4034c28c]" started-at="2024-06-14T13:41:37 IST" name="DeleteTweet" finished-at="2024-06-14T13:41:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTweet -->
+      </class> <!-- nagarjunvp.Maven_java.RestAssuredTest -->
+      <class name="nagarjunvp.Maven_java.SeleniumTest">
+        <test-method signature="elementsUI()[pri:0, instance:nagarjunvp.Maven_java.SeleniumTest@e50a6f6]" started-at="2024-06-14T13:41:37 IST" name="elementsUI" finished-at="2024-06-14T13:41:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method signature="browserAutomate()[pri:0, instance:nagarjunvp.Maven_java.SeleniumTest@e50a6f6]" started-at="2024-06-14T13:41:37 IST" name="browserAutomate" finished-at="2024-06-14T13:41:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomate -->
+      </class> <!-- nagarjunvp.Maven_java.SeleniumTest -->
+      <class name="nagarjunvp.Maven_java.AppiumTest">
+        <test-method signature="AndroidTest()[pri:0, instance:nagarjunvp.Maven_java.AppiumTest@5762806e]" started-at="2024-06-14T13:41:37 IST" name="AndroidTest" finished-at="2024-06-14T13:41:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidTest -->
+        <test-method signature="ioSTest()[pri:0, instance:nagarjunvp.Maven_java.AppiumTest@5762806e]" started-at="2024-06-14T13:41:37 IST" name="ioSTest" finished-at="2024-06-14T13:41:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ioSTest -->
+      </class> <!-- nagarjunvp.Maven_java.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
